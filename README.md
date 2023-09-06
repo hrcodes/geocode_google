@@ -35,3 +35,22 @@ Before you begin, make sure you have the following:
    ```bash
    npm start
    ```
+
+## Running Results
+
+```bash
+
+Endereço:  Sé - Praça da Sé - Sé, São Paulo - SP, 01001-000, Brazil
+Latitude:  -23.5500991
+Longitude:  -46.633321
+
+CEP:  01001-000
+Logradouro:  Praça da Sé
+Bairro:  Sé
+Cidade:  São Paulo
+Estado:  São Paulo
+Estado:  SP
+País:  Brazil
+Sigla:  BR
+
+```
